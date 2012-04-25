@@ -1,0 +1,21 @@
+<snippet>
+   <content><![CDATA[
+\$this->load->library('email');
+
+\$this->email->from('${1:email@email.com}', '${2:Name}');
+\$this->email->to('${3:someone@example.com}');
+\$this->email->cc('${4:another@example.com}');
+\$this->email->bcc('${5:and@another.com}');
+
+\$this->email->subject('${6:subject}');
+\$this->email->message('${7:message}');
+
+\$this->email->send();
+
+echo \$this->email->print_debugger();
+]]></content>
+   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+   <tabTrigger>email</tabTrigger>
+   <!-- Optional: Set a scope to limit where the snippet will trigger -->
+   <!-- <scope>source.php</scope> -->
+</snippet>

@@ -1,0 +1,12 @@
+[
+{ "keys": ["ctrl+shift+h"], "command": "goto_documentation" },
+{ 
+"keys"      :   ["alt+shift+t"], 
+"command"   :   "insert_snippet",
+"args": {
+"contents": "<${1:p}>${0:$SELECTION}</${1}>"
+}
+},
+{ "keys": ["super+ctrl+r"], "command": "settings_refresh" },
+{ "keys": ["alt+ctrl+r"], "command": "refresh_folder_list" }
+]

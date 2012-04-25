@@ -1,0 +1,490 @@
+{
+	"folder_history":
+	[
+	],
+	"last_window_id": 7,
+	"settings":
+	{
+		"new_window_height": 852.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"package control: a",
+						"Package Control: Install Package"
+					],
+					[
+						"linter",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 719.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/michael.funk/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Library/WebServer/Documents/base_codeigniter_app/README.md",
+				"/Library/WebServer/Documents/base_codeigniter_app/index.php",
+				"/Users/michael.funk/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/README.rst",
+				"/Library/WebServer/Documents/base_codeigniter_app/application/controllers/welcome.php",
+				"/Users/michael.funk/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Library/WebServer/Documents/test/ie_submit_test.php",
+				"/Library/WebServer/Documents/laravel/public/.htaccess",
+				"/Library/WebServer/Documents/query_string_helper/README.md",
+				"/Library/WebServer/Documents/MY_Migration/README.md",
+				"/Library/WebServer/Documents/xpress/sparks/my_migration/1.0.0/README.md",
+				"/Library/WebServer/Documents/codeigniter/.travis.yml",
+				"/Library/WebServer/Documents/ci_tutorial/README.markdown",
+				"/Library/WebServer/Documents/base_codeigniter_app/README.markdown",
+				"/Library/WebServer/Documents/xulonpress_website/landing_pages/application/controllers/landing_pages.php",
+				"/Users/michael.funk/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/Library/WebServer/Documents"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"action",
+					"\\\"",
+					"1.",
+					"soap12",
+					"dork",
+					"data"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\"",
+					"soap",
+					"dork"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 225.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1440.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Library/WebServer/Documents/test/leads_test.php",
+					"settings":
+					{
+						"buffer_size": 1990,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 387.0,
+				"selected_items":
+				[
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"clip",
+						"Package Control: Install Package"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"git st",
+						"Git: Status"
+					],
+					[
+						"git s",
+						"Git: Stash Changes"
+					],
+					[
+						"git",
+						"Git: Pull Current Branch"
+					],
+					[
+						"git sta",
+						"Git: Stash Changes"
+					],
+					[
+						"git: sta",
+						"Git: Status"
+					],
+					[
+						"mark",
+						"Markdown Preview: current file in Sublime Text"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"package control: a",
+						"Package Control: Install Package"
+					],
+					[
+						"linter",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 719.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Library/WebServer/Documents/base_codeigniter_app/index.php",
+				"/Users/michael.funk/Library/Application Support/Sublime Text 2/Packages/User/php-validate.sublime-build",
+				"/Users/michael.funk/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+				"/Users/michael.funk/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Library/WebServer/Documents/test/leads_test.php",
+				"/Users/michael.funk/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/michael.funk/Library/Application Support/Sublime Text 2/Packages/DocBlockr/Base File.sublime-settings",
+				"/Library/WebServer/Documents/base_codeigniter_app/README.md",
+				"/Users/michael.funk/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/README.rst",
+				"/Library/WebServer/Documents/base_codeigniter_app/application/controllers/welcome.php",
+				"/Users/michael.funk/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Library/WebServer/Documents/test/ie_submit_test.php",
+				"/Library/WebServer/Documents/laravel/public/.htaccess",
+				"/Library/WebServer/Documents/query_string_helper/README.md",
+				"/Library/WebServer/Documents/MY_Migration/README.md",
+				"/Library/WebServer/Documents/xpress/sparks/my_migration/1.0.0/README.md",
+				"/Library/WebServer/Documents/codeigniter/.travis.yml",
+				"/Library/WebServer/Documents/ci_tutorial/README.markdown",
+				"/Library/WebServer/Documents/base_codeigniter_app/README.markdown",
+				"/Library/WebServer/Documents/xulonpress_website/landing_pages/application/controllers/landing_pages.php",
+				"/Users/michael.funk/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Library/WebServer/Documents"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"action",
+					"\\\"",
+					"1.",
+					"soap12",
+					"dork",
+					"data"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\"",
+					"soap",
+					"dork"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Library/WebServer/Documents"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Library/WebServer/Documents/test/leads_test.php",
+							"settings":
+							{
+								"buffer_size": 1990,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										345,
+										168
+									]
+								],
+								"settings":
+								{
+									"is_xml": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 100.0
+			},
+			"output.git":
+			{
+				"height": 194.0
+			},
+			"position": "0 4 1440 874 0 0 1440 878 ",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 225.0,
+			"status_bar_visible": true,
+			"window_id": 7,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

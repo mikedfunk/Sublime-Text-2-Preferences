@@ -1,0 +1,28 @@
+{
+	"auto_upgrade_last_run": 1335301480,
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"Alignment",
+		"BracketHighlighter",
+		"Change Tracker",
+		"Clipboard History",
+		"CodeIgniter Snippets",
+		"DocBlockr",
+		"Gist",
+		"Git",
+		"Help",
+		"jQuery",
+		"Markdown Preview",
+		"Package Control",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"Tag",
+		"TrailingSpaces",
+		"Xdebug"
+	],
+	"repositories":
+	[
+		"https://github.com/mpmont/ci-snippets"
+	]
+}

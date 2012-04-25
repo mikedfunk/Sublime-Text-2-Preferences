@@ -1,0 +1,13 @@
+[
+    {
+        "caption": "Help",
+        "command": "help"
+    },
+    {
+        "caption": "Help : Manage Urls for Search",
+        "command": "open_file", "args":
+        {
+            "file": "${packages}/User/Help.sublime-settings"
+        }
+    }
+]

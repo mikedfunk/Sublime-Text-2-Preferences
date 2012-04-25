@@ -1,0 +1,8 @@
+{
+	"urls":
+	{
+		"Google": "http://www.google.fr/?q=%s",
+		"MooTools": "http://mootools.net/search/?search=1&query=%s",
+		"PHP": "http://fr.php.net/%s"
+	}
+}
