@@ -1,0 +1,24 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * curl_load
+ *
+ * ${1:description}
+ *
+ * @license		http://www.apache.org/licenses/LICENSE-2.0  Apache License 2.0
+ * @author		Mike Funk
+ * @link		http://mikefunk.com
+ * @email		mike@mikefunk.com
+ *
+ * @file		$TM_FILENAME
+ * @version		${2:version}
+ * @date		${3:mm/dd}/2012
+ */
+
+$4
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>// author</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
